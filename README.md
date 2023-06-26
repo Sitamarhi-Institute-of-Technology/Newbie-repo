@@ -3,6 +3,7 @@
 ![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://github.com/Sitamarhi-Institute-of-Technology/Newbie-repo/assets/104882734/951a4403-9dad-4d5b-983f-ef1d09cba2cb)
 
 > **This Repo is For New members**
+
 Step-by-Step Guide to Set Up Visual Studio Code (VSCode) and GitHub
 
 Welcome to the world of coding and collaboration on GitHub! This step-by-step guide will help you set up Visual Studio Code (VSCode) and connect it to your GitHub account.
